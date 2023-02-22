@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "forge",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Hi-Rez/Forge",
+      "state" : {
+        "branch" : "master",
+        "revision" : "0b115dd117307ac701677d85d79018f8afc9335f"
+      }
+    },
+    {
+      "identity" : "satin",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Hi-Rez/Satin",
+      "state" : {
+        "branch" : "master",
+        "revision" : "3cbc0b4b3cf404af8e30391d27aafb449f1f08fc"
+      }
+    },
+    {
+      "identity" : "youi",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Hi-Rez/Youi",
+      "state" : {
+        "branch" : "master",
+        "revision" : "8661b8f925d7af173fac62be51f88148d5c00d60"
+      }
+    }
+  ],
+  "version" : 2
+}
